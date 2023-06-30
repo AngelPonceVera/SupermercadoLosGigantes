@@ -41,11 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EntEntrada.cs" />
     <Compile Include="entOrden.cs" />
     <Compile Include="entPresupuesto.cs" />
     <Compile Include="entProducto.cs" />
     <Compile Include="entProveedor.cs" />
     <Compile Include="entRequerimiento.cs" />
+    <Compile Include="entSalida.cs" />
     <Compile Include="entSucursal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

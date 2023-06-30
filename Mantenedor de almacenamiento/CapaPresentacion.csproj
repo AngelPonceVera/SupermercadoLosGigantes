@@ -46,11 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEntrada.Designer.cs">
+      <DependentUpon>FormEntrada.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormPresupuesto.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormPresupuesto.Designer.cs">
       <DependentUpon>FormPresupuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSalida.Designer.cs">
+      <DependentUpon>FormSalida.cs</DependentUpon>
     </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
@@ -96,8 +108,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormEntrada.resx">
+      <DependentUpon>FormEntrada.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormPresupuesto.resx">
       <DependentUpon>FormPresupuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSalida.resx">
+      <DependentUpon>FormSalida.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
