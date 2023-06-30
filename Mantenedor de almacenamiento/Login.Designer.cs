@@ -43,10 +43,9 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Impact", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Orange;
-            this.label1.Location = new System.Drawing.Point(275, 252);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(367, 310);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(118, 37);
+            this.label1.Size = new System.Drawing.Size(144, 45);
             this.label1.TabIndex = 0;
             this.label1.Text = "Usuario:";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -56,10 +55,9 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Impact", 22.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Orange;
-            this.label2.Location = new System.Drawing.Point(275, 321);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Location = new System.Drawing.Point(367, 395);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(166, 37);
+            this.label2.Size = new System.Drawing.Size(202, 45);
             this.label2.TabIndex = 1;
             this.label2.Text = "Contraseña:";
             this.label2.Click += new System.EventHandler(this.label2_Click);
@@ -67,21 +65,19 @@
             // txtUsuario
             // 
             this.txtUsuario.BackColor = System.Drawing.Color.Orange;
-            this.txtUsuario.Location = new System.Drawing.Point(448, 262);
-            this.txtUsuario.Margin = new System.Windows.Forms.Padding(2);
+            this.txtUsuario.Location = new System.Drawing.Point(598, 322);
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(120, 20);
+            this.txtUsuario.Size = new System.Drawing.Size(158, 22);
             this.txtUsuario.TabIndex = 10;
             this.txtUsuario.TextChanged += new System.EventHandler(this.txtUsuario_TextChanged);
             // 
             // txtContraseña
             // 
             this.txtContraseña.BackColor = System.Drawing.Color.Orange;
-            this.txtContraseña.Location = new System.Drawing.Point(448, 330);
-            this.txtContraseña.Margin = new System.Windows.Forms.Padding(2);
+            this.txtContraseña.Location = new System.Drawing.Point(598, 406);
             this.txtContraseña.Name = "txtContraseña";
             this.txtContraseña.PasswordChar = '*';
-            this.txtContraseña.Size = new System.Drawing.Size(120, 20);
+            this.txtContraseña.Size = new System.Drawing.Size(158, 22);
             this.txtContraseña.TabIndex = 11;
             this.txtContraseña.TextChanged += new System.EventHandler(this.txtContraseña_TextChanged);
             // 
@@ -91,10 +87,9 @@
             this.btnSalir.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnSalir.BackgroundImage = global::Mantenedor_de_almacenamiento.Properties.Resources.unnamed_removebg_preview1;
             this.btnSalir.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSalir.Location = new System.Drawing.Point(762, 481);
-            this.btnSalir.Margin = new System.Windows.Forms.Padding(2);
+            this.btnSalir.Location = new System.Drawing.Point(1019, 592);
             this.btnSalir.Name = "btnSalir";
-            this.btnSalir.Size = new System.Drawing.Size(107, 46);
+            this.btnSalir.Size = new System.Drawing.Size(143, 56);
             this.btnSalir.TabIndex = 12;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = false;
@@ -105,10 +100,9 @@
             this.btnCancelar.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnCancelar.BackgroundImage = global::Mantenedor_de_almacenamiento.Properties.Resources.unnamed_removebg_preview1;
             this.btnCancelar.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCancelar.Location = new System.Drawing.Point(448, 391);
-            this.btnCancelar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnCancelar.Location = new System.Drawing.Point(598, 481);
             this.btnCancelar.Name = "btnCancelar";
-            this.btnCancelar.Size = new System.Drawing.Size(107, 46);
+            this.btnCancelar.Size = new System.Drawing.Size(143, 56);
             this.btnCancelar.TabIndex = 9;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = false;
@@ -119,10 +113,9 @@
             this.btnIngresar.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnIngresar.BackgroundImage = global::Mantenedor_de_almacenamiento.Properties.Resources.unnamed_removebg_preview1;
             this.btnIngresar.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnIngresar.Location = new System.Drawing.Point(312, 391);
-            this.btnIngresar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnIngresar.Location = new System.Drawing.Point(416, 481);
             this.btnIngresar.Name = "btnIngresar";
-            this.btnIngresar.Size = new System.Drawing.Size(107, 46);
+            this.btnIngresar.Size = new System.Drawing.Size(143, 56);
             this.btnIngresar.TabIndex = 8;
             this.btnIngresar.Text = "Ingresar";
             this.btnIngresar.UseVisualStyleBackColor = false;
@@ -130,12 +123,12 @@
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.BackgroundImage = global::Mantenedor_de_almacenamiento.Properties.Resources.Login;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(880, 572);
+            this.ClientSize = new System.Drawing.Size(1174, 704);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.txtContraseña);
             this.Controls.Add(this.txtUsuario);
@@ -144,9 +137,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Login";
-            this.Text = "yyyyyyyyyyyyyyyyyyy";
+            this.Text = "Login";
             this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

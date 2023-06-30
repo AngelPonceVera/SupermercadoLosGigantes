@@ -42,7 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Conexion.cs" />
+    <Compile Include="datOrden.cs" />
+    <Compile Include="datProducto.cs" />
     <Compile Include="datProveedor.cs" />
+    <Compile Include="datRequerimiento.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -46,28 +46,6 @@ namespace Mantenedor_de_almacenamiento
             Close();
         }
 
-        private void btnEntradas_Click(object sender, EventArgs e)
-        {
-            FormEntrada formEntrada = new FormEntrada();
-            formEntrada.Show();
-        }
-
-        private void btnPresupuesto_Click(object sender, EventArgs e)
-        {
-            FormPresupuesto formPresupuesto = new FormPresupuesto();
-            formPresupuesto.Show();
-        }
-
-        private void btnSalida_Click(object sender, EventArgs e)
-        {
-            FormSalida formSalida = new FormSalida();
-            formSalida.Show();
-        }
-
-        private void btnSucursal_Click(object sender, EventArgs e)
-        {
-            MantenedorSucursal mantenedorSucursal = new MantenedorSucursal();
-            mantenedorSucursal.Show();
-        }
+        
     }
 }

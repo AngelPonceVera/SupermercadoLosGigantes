@@ -51,7 +51,7 @@
             this.btnSucursal.TabIndex = 9;
             this.btnSucursal.Text = "Sucursales";
             this.btnSucursal.UseVisualStyleBackColor = false;
-            this.btnSucursal.Click += new System.EventHandler(this.btnSucursal_Click);
+
             // 
             // btnSalida
             // 
@@ -64,7 +64,7 @@
             this.btnSalida.TabIndex = 8;
             this.btnSalida.Text = "Salidas";
             this.btnSalida.UseVisualStyleBackColor = false;
-            this.btnSalida.Click += new System.EventHandler(this.btnSalida_Click);
+
             // 
             // btnPresupuesto
             // 
@@ -77,7 +77,7 @@
             this.btnPresupuesto.TabIndex = 7;
             this.btnPresupuesto.Text = "Presupuesto";
             this.btnPresupuesto.UseVisualStyleBackColor = false;
-            this.btnPresupuesto.Click += new System.EventHandler(this.btnPresupuesto_Click);
+       
             // 
             // btnEntradas
             // 
@@ -90,7 +90,7 @@
             this.btnEntradas.TabIndex = 6;
             this.btnEntradas.Text = "Entradas";
             this.btnEntradas.UseVisualStyleBackColor = false;
-            this.btnEntradas.Click += new System.EventHandler(this.btnEntradas_Click);
+      
             // 
             // btnSalir
             // 
