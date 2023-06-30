@@ -47,6 +47,14 @@ namespace Mantenedor_de_almacenamiento
         }
 
 
+
+        private void btnPresupuesto_Click(object sender, EventArgs e)
+        {
+            FormPresupuesto formPresupuesto = new FormPresupuesto();
+            formPresupuesto.Show();
+        }
+
+
         private void btnSucursal_Click(object sender, EventArgs e)
         {
             MantenedorSucursal mantenedorSucursal = new MantenedorSucursal();

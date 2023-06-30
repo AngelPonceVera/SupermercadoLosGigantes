@@ -4,9 +4,9 @@ C:\Users\lucas\source\repos\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyRef
 C:\Users\lucas\source\repos\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\lucas\source\repos\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\lucas\source\repos\CapaEntidad\obj\Debug\CapaEntidad.pdb
-D:\alassewe1121\CapaEntidad\bin\Debug\CapaEntidad.dll
-D:\alassewe1121\CapaEntidad\bin\Debug\CapaEntidad.pdb
-D:\alassewe1121\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
-D:\alassewe1121\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
-D:\alassewe1121\CapaEntidad\obj\Debug\CapaEntidad.dll
-D:\alassewe1121\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaEntidad\obj\Debug\CapaEntidad.pdb

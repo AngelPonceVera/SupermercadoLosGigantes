@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="entOrden.cs" />
+    <Compile Include="entPresupuesto.cs" />
     <Compile Include="entProducto.cs" />
     <Compile Include="entProveedor.cs" />
     <Compile Include="entRequerimiento.cs" />

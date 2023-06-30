@@ -7,12 +7,12 @@ C:\Users\lucas\source\repos\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInpu
 C:\Users\lucas\source\repos\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 C:\Users\lucas\source\repos\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\lucas\source\repos\CapaDatos\obj\Debug\CapaDatos.pdb
-D:\alassewe1121\CapaDatos\bin\Debug\CapaDatos.dll
-D:\alassewe1121\CapaDatos\bin\Debug\CapaDatos.pdb
-D:\alassewe1121\CapaDatos\bin\Debug\CapaEntidad.dll
-D:\alassewe1121\CapaDatos\bin\Debug\CapaEntidad.pdb
-D:\alassewe1121\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
-D:\alassewe1121\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
-D:\alassewe1121\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
-D:\alassewe1121\CapaDatos\obj\Debug\CapaDatos.dll
-D:\alassewe1121\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\kevin\OneDrive\Desktop\FINAL MOANSO\CapaDatos\obj\Debug\CapaDatos.pdb
