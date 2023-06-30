@@ -45,6 +45,7 @@
     <Compile Include="logProducto.cs" />
     <Compile Include="logProveedor.cs" />
     <Compile Include="logRequerimiento.cs" />
+    <Compile Include="logSucursal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

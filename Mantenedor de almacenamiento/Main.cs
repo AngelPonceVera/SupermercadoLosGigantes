@@ -46,6 +46,11 @@ namespace Mantenedor_de_almacenamiento
             Close();
         }
 
-        
+
+        private void btnSucursal_Click(object sender, EventArgs e)
+        {
+            MantenedorSucursal mantenedorSucursal = new MantenedorSucursal();
+            mantenedorSucursal.Show();
+        }
     }
 }

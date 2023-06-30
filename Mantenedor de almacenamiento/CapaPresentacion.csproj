@@ -82,6 +82,12 @@
     <Compile Include="MantenedorProducto.Designer.cs">
       <DependentUpon>MantenedorProducto.cs</DependentUpon>
     </Compile>
+    <Compile Include="MantenedorSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenedorSucursal.Designer.cs">
+      <DependentUpon>MantenedorSucursal.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Login.resx">
@@ -101,6 +107,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="MantenedorProducto.resx">
       <DependentUpon>MantenedorProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenedorSucursal.resx">
+      <DependentUpon>MantenedorSucursal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
