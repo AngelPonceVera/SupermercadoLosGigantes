@@ -16,3 +16,12 @@ C:\Users\lucas\OneDrive\Escritorio\git\CapaDatos\obj\Debug\CapaDatos.csproj.Core
 C:\Users\lucas\OneDrive\Escritorio\git\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 C:\Users\lucas\OneDrive\Escritorio\git\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\lucas\OneDrive\Escritorio\git\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaDatos\obj\Debug\CapaDatos.pdb

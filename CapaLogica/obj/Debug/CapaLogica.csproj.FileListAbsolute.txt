@@ -20,3 +20,14 @@ C:\Users\lucas\OneDrive\Escritorio\git\CapaLogica\obj\Debug\CapaLogica.csproj.Co
 C:\Users\lucas\OneDrive\Escritorio\git\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
 C:\Users\lucas\OneDrive\Escritorio\git\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\lucas\OneDrive\Escritorio\git\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaLogica\obj\Debug\CapaLogica.pdb

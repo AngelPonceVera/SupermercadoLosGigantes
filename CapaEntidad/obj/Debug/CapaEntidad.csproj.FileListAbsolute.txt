@@ -10,3 +10,9 @@ C:\Users\lucas\OneDrive\Escritorio\git\CapaEntidad\obj\Debug\CapaEntidad.csproj.
 C:\Users\lucas\OneDrive\Escritorio\git\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\lucas\OneDrive\Escritorio\git\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\lucas\OneDrive\Escritorio\git\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\OneDrive - Universidad Privada del Norte\Desktop\clon\CapaEntidad\obj\Debug\CapaEntidad.pdb

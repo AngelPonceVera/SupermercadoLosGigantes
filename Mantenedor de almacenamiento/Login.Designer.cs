@@ -48,7 +48,7 @@
             this.label1.Size = new System.Drawing.Size(144, 45);
             this.label1.TabIndex = 0;
             this.label1.Text = "Usuario:";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+//            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -60,7 +60,7 @@
             this.label2.Size = new System.Drawing.Size(202, 45);
             this.label2.TabIndex = 1;
             this.label2.Text = "Contraseña:";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+   //         this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // txtUsuario
             // 
@@ -69,7 +69,7 @@
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(158, 22);
             this.txtUsuario.TabIndex = 10;
-            this.txtUsuario.TextChanged += new System.EventHandler(this.txtUsuario_TextChanged);
+      //      this.txtUsuario.TextChanged += new System.EventHandler(this.txtUsuario_TextChanged);
             // 
             // txtContraseña
             // 
@@ -79,7 +79,7 @@
             this.txtContraseña.PasswordChar = '*';
             this.txtContraseña.Size = new System.Drawing.Size(158, 22);
             this.txtContraseña.TabIndex = 11;
-            this.txtContraseña.TextChanged += new System.EventHandler(this.txtContraseña_TextChanged);
+     //       this.txtContraseña.TextChanged += new System.EventHandler(this.txtContraseña_TextChanged);
             // 
             // btnSalir
             // 
@@ -139,7 +139,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Login";
             this.Text = "Login";
-            this.Load += new System.EventHandler(this.Login_Load);
+//            this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
