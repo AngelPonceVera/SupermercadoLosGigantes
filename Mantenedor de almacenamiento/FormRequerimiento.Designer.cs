@@ -253,7 +253,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormRequerimiento";
             this.Text = "FormRequerimiento";
-            this.Load += new System.EventHandler(this.FormRequerimiento_Load);
+//            this.Load += new System.EventHandler(this.FormRequerimiento_Load);
             this.gbReq.ResumeLayout(false);
             this.gbReq.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvReq)).EndInit();

@@ -138,10 +138,5 @@ namespace Mantenedor_de_almacenamiento
                 MessageBox.Show("El producto no existe o esta inhabilitado. Verfique nuevamente");
             }
         }
-
-        private void gbDetalle_Enter(object sender, EventArgs e)
-        {
-
-        }
     }
 }

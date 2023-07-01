@@ -120,7 +120,7 @@
             this.cmb_nombreproveedor.Name = "cmb_nombreproveedor";
             this.cmb_nombreproveedor.Size = new System.Drawing.Size(166, 24);
             this.cmb_nombreproveedor.TabIndex = 28;
-            this.cmb_nombreproveedor.SelectedIndexChanged += new System.EventHandler(this.cmb_nombreproveedor_SelectedIndexChanged);
+//            this.cmb_nombreproveedor.SelectedIndexChanged += new System.EventHandler(this.cmb_nombreproveedor_SelectedIndexChanged);
             // 
             // label7
             // 

@@ -106,11 +106,6 @@ namespace Mantenedor_de_almacenamiento
             limpiarVariables();
         }
 
-        private void txtIdSalida_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnResta_Click(object sender, EventArgs e)
         {
             dgvSalida.Enabled = true;

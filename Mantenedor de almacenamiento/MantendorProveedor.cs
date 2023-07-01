@@ -146,15 +146,5 @@ namespace Mantenedor_de_almacenamiento
             gbProveedor.Enabled = false;
             listarProveedor();
         }
-
-        private void MantendorProveedor_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void cbFormaPago_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

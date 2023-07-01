@@ -101,7 +101,7 @@
             this.cbForma_Pago.Name = "cbForma_Pago";
             this.cbForma_Pago.Size = new System.Drawing.Size(207, 24);
             this.cbForma_Pago.TabIndex = 18;
-            this.cbForma_Pago.SelectedIndexChanged += new System.EventHandler(this.cbFormaPago_SelectedIndexChanged);
+//            this.cbForma_Pago.SelectedIndexChanged += new System.EventHandler(this.cbFormaPago_SelectedIndexChanged);
             // 
             // label9
             // 
@@ -361,7 +361,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MantendorProveedor";
             this.Text = "MantenedorProveedor";
-            this.Load += new System.EventHandler(this.MantendorProveedor_Load);
+//            this.Load += new System.EventHandler(this.MantendorProveedor_Load);
             this.gbProveedor.ResumeLayout(false);
             this.gbProveedor.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProveedor)).EndInit();

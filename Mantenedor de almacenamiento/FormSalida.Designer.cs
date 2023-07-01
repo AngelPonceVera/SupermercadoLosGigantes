@@ -68,7 +68,7 @@
             this.txtIdSalida.Name = "txtIdSalida";
             this.txtIdSalida.Size = new System.Drawing.Size(156, 22);
             this.txtIdSalida.TabIndex = 11;
-            this.txtIdSalida.TextChanged += new System.EventHandler(this.txtIdSalida_TextChanged);
+//            this.txtIdSalida.TextChanged += new System.EventHandler(this.txtIdSalida_TextChanged);
             // 
             // btnAgregar
             // 

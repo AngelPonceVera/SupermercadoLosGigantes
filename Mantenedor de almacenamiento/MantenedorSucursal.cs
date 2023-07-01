@@ -134,15 +134,5 @@ namespace Mantenedor_de_almacenamiento
             cbxEstSucursal.Checked = Convert.ToBoolean(filaActual.Cells[6].Value);
 
         }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtDistrito_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

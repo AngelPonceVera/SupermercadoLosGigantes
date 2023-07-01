@@ -112,11 +112,6 @@ namespace Mantenedor_de_almacenamiento
             dtpReq.Text = filaActual.Cells[3].Value.ToString();
         }
 
-        private void FormRequerimiento_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnOrden_Click(object sender, EventArgs e)
         {
             FormOrdenCompra formOrdenCompra = new FormOrdenCompra();

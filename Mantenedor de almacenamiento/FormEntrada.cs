@@ -134,10 +134,5 @@ namespace Mantenedor_de_almacenamiento
 
             listarProductos();
         }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

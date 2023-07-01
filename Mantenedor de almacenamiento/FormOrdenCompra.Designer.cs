@@ -180,7 +180,7 @@
             this.gbDetalle.TabIndex = 12;
             this.gbDetalle.TabStop = false;
             this.gbDetalle.Text = "Detalle de Orden Compra";
-            this.gbDetalle.Enter += new System.EventHandler(this.gbDetalle_Enter);
+//            this.gbDetalle.Enter += new System.EventHandler(this.gbDetalle_Enter);
             // 
             // cbProveedor
             // 

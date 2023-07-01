@@ -118,10 +118,5 @@ namespace Mantenedor_de_almacenamiento
             grupDatosPresupuesto.Enabled = false;
             ListarPresupuesto();
         }
-
-        private void cmb_nombreproveedor_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

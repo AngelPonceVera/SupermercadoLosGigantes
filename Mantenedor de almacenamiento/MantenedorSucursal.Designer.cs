@@ -99,7 +99,7 @@
             this.txtDistrito.Name = "txtDistrito";
             this.txtDistrito.Size = new System.Drawing.Size(171, 22);
             this.txtDistrito.TabIndex = 10;
-            this.txtDistrito.TextChanged += new System.EventHandler(this.txtDistrito_TextChanged);
+//            this.txtDistrito.TextChanged += new System.EventHandler(this.txtDistrito_TextChanged);
             // 
             // label5
             // 
@@ -109,7 +109,7 @@
             this.label5.Size = new System.Drawing.Size(51, 16);
             this.label5.TabIndex = 9;
             this.label5.Text = "Distrito:";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
+    //        this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // txtPais
             // 

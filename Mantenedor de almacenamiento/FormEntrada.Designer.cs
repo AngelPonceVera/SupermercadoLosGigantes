@@ -171,7 +171,7 @@
             this.label6.Size = new System.Drawing.Size(64, 16);
             this.label6.TabIndex = 11;
             this.label6.Text = "Producto:";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
+//            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // cbProveedor
             // 
